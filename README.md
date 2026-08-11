@@ -58,18 +58,11 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações**, **ecossistema
 ## 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mailsonm&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailsonm&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mailsonm&theme=tokyonight" alt="Perfil GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mailsonm&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
 </div>
 
-<br/>
 
-<div align="center">
-  <!-- GitHub Streak Atualizado (Sem Heroku) -->
-  <img src="https://streak-stats.demolab.com/?user=mailsonm&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 <div align="center">
   <!-- Gráfico de Atividades Histórico (Substituto estável e visual para Trophies/WakaTime) -->
