@@ -53,36 +53,27 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações**, **ecossistema
 | **IAs Locais & Automação** | Execução e testes de LLMs locais (Ollama / LM Studio) para consumo via scripts Python/Zsh e APIs locais. |
 | **CMS & Web Development** | Criação e personalização de sites, landing pages e portfólios institucionais utilizando WordPress. |
 
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mailsonm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailsonm&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mailsonm&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailsonm&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mailsonm&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak Atualizado (Sem Heroku) -->
+  <img src="https://streak-stats.demolab.com/?user=mailsonm&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mailsonm&theme=tokyonight&no-bg=true&margin-w=5" alt="mailsonm GitHub Trophies" />
-</div>
-
----
-
-## 📊 WakaTime (Tempo de Codificação)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mailsonm&layout=compact&theme=tokyonight" alt="mailsonm WakaTime Stats" />
+  <!-- Gráfico de Atividades Histórico (Substituto estável e visual para Trophies/WakaTime) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mailsonm&theme=tokyo-night" alt="Gráfico de Atividades" />
 </div>
 
 ---
