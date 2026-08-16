@@ -14,7 +14,7 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações agênticas**, **
 - 🛠️ **Stack Principal:** PHP (PSR-12), TypeScript, Python, Odoo v19 (Community) e Docker Compose.
 - 🤖 **AI Agêntica & APIs:** Engenharia Agêntica com **MCP (Model Context Protocol)**, IAs Locais (Ollama/LM Studio), extensões para WhatsApp e gateways de pagamento.
 - 🎮 **Game Dev:** Mecânicas de combate por turno, sistemas táticos, combos e árvores de habilidades no Godot (GDScript / C#).
-- 🐧 **OS / Terminal:** Manjaro Linux + Zsh.nal:** Manjaro Linux + Zsh.
+- 🐧 **OS / Terminal:** Manjaro Linux + Zsh.
 
 ---
 
