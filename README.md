@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/WiDplerbPHYnjLUo5i/giphy.gif" alt="Code Wizard" width="220" />
+  <img src="https://i.giphy.com/media/WiDplerbPHYnjLUo5i/giphy-downsized-large.gif" alt="Code Wizard" width="220" />
 </div>
 
 ## 🚀 Sobre Mim
