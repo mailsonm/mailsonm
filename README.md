@@ -58,8 +58,8 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações agênticas**, **
 ## 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mailsonm&theme=tokyonight" alt="Perfil GitHub" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mailsonm&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mailsonm&theme=tokyonight" alt="Perfil GitHub" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mailsonm&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center">
