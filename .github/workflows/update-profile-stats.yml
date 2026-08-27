@@ -1,0 +1,50 @@
+﻿name: Update Profile Stats & Graphs
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa automaticamente todos os dias a meia-noite (UTC)
+  workflow_dispatch: # Permite disparar manualmente na aba Actions
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-assets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Gerar Grafico de Atividades Historico (SVG)
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&custom_title=Historico%20de%20Atividades
+          output_path: assets/profile-activity-graph.svg
+
+      # 2. Gerar Animacao da Cobrinha (Snake Game)
+      - name: Generate Contribution Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38BDF8&color_dots=#16161e,#1a1b26,#7aa2f7,#bb9af7,#7dcfff
+
+      # 3. Commit e Push automatico dos arquivos gerados
+      - name: Commit & Push Generated Assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): update activity graph and contribution snake [skip ci]"
+          commit_user_name: "Mailson Maia Alves"
+          commit_user_email: "59203034+mailsonm@users.noreply.github.com"
+          commit_author: "Mailson Maia Alves <59203034+mailsonm@users.noreply.github.com>"
+          file_pattern: "assets/*"

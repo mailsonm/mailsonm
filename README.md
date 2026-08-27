@@ -1,4 +1,4 @@
-<!-- BANNER COM EFEITO TYPING -->
+﻿<!-- BANNER COM EFEITO TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Fullstack+Developer;Odoo+%26+Web+Ecosystems;Agentic+AI+%26+MCP+(Model+Context+Protocol);Game+Dev+(Godot+%7C+Tactical+RPGs)" alt="Typing SVG" />
 </div>
@@ -60,11 +60,21 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações agênticas**, **
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mailsonm&theme=tokyonight" alt="Perfil GitHub" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mailsonm&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=mailsonm&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Gráfico de Atividades Histórico -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mailsonm&theme=tokyo-night" alt="Gráfico de Atividades" />
+  <!-- Gráfico de Atividades Histórico (Gerado via GitHub Actions) -->
+  <img src="./assets/profile-activity-graph.svg" alt="Histórico de Atividades" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Animação Snake Game no Grid de Contribuições (Gerado via GitHub Actions) -->
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Snake Game de Contribuições" width="95%" />
 </div>
 
 ---
