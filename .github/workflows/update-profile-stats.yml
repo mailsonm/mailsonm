@@ -24,7 +24,7 @@ jobs:
 
       # 1. Gerar Grafico de Atividades Historico (SVG)
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: theme=tokyo-night&custom_title=Historico%20de%20Atividades
