@@ -67,14 +67,18 @@ Desenvolvedor focado em **sistemas web/mobile**, **automações agênticas**, **
 
 <div align="center">
   <!-- Gráfico de Atividades Histórico (Gerado via GitHub Actions) -->
-  <img src="./assets/profile-activity-graph.svg" alt="Histórico de Atividades" width="95%" />
+  <img src="https://raw.githubusercontent.com/mailsonm/mailsonm/main/assets/profile-activity-graph.svg" alt="Histórico de Atividades" width="95%" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Animação Snake Game no Grid de Contribuições (Gerado via GitHub Actions) -->
-  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Snake Game de Contribuições" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mailsonm/mailsonm/main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mailsonm/mailsonm/main/assets/github-contribution-grid-snake.svg">
+    <img alt="Snake Game de Contribuições" src="https://raw.githubusercontent.com/mailsonm/mailsonm/main/assets/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
 </div>
 
 ---
